@@ -42,11 +42,11 @@ stroke_number = [0, 200]
 character_number = 2
 
 # 姓--不会影响名字的生成，仅仅影响输出
-last_name = "王"
+last_name = "张"
 
 # 允许叠字--例：欢欢，西西
 replicate = False
-
+# replicate = True
 # 选择词库
 # 0: "默认", 1: "诗经", 2: "楚辞", 3: "论语",
 # 4: "周易", 5: "唐诗", 6: "宋诗", 7: "宋词"
